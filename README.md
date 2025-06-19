@@ -15,7 +15,7 @@ An AI-powered stock market analysis application that provides real-time market d
 
 - Python 3.8 or higher
 - OpenAI API key
-- Internet connection for real-time data
+- Alpha vantage key 
 
 ## 🛠️ Installation
 
