@@ -1,5 +1,8 @@
 # 📈 Stock Market Advisor
 
+<img width="1320" alt="SM agent" src="https://github.com/user-attachments/assets/5c355a66-79ee-4c63-8e4a-32172988b23f" />
+
+
 An AI-powered stock market analysis application that provides real-time market data, technical analysis, and AI-generated insights for stock market investments.
 
 ## 🚀 Features
