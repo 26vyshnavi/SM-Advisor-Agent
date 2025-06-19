@@ -144,7 +144,9 @@ Feel free to contribute to this project by:
 
 ## 📄 License
 
-This project is open source and available under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
+
+You are free to use, modify, and distribute this software. See the LICENSE file for details.
 
 ## ⚠️ Disclaimer
 
